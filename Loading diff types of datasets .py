@@ -1,5 +1,4 @@
 import numpy as np
-import pickle
 import pandas as pd
 filename = "load.csv"
 cols = None
