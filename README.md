@@ -1,5 +1,5 @@
 # Python Problem Solving
-Python Problem solving Questions from Beginner to advanced
+Python Problem solving Questions from Beginner to Mid-Range
 
 Python is interpreted object-oriented language. 
 It is also referred to as a high-level programming language. It is designed by Guido Van Rossum. 
